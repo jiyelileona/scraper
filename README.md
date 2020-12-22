@@ -1,14 +1,13 @@
 # scraper
 
 ## Start Up
-make sure you installed pip
 ```
-pip install -e git+https://github.com/jiyelileona/scraper.git#egg=scraper
+git clone https://github.com/jiyelileona/scraper
 ```
 To track the url, change the URL variable in .env, put your url after "URL=".
 
 then 
 ```
- cd .\src\scraper\
+ cd .\scraper\
  python scraper.py
 ```
